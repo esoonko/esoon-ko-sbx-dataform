@@ -1,0 +1,6 @@
+{
+  "name": "esoon-ko-sbx-dataform-repository",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
